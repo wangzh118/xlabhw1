@@ -54,7 +54,20 @@ q
 4.20    5.60    
 7.50    10.80
 Error: Matrix a and b must have the same rows and cols.
+
 ```
+## 截图证明
+<img width="876" alt="2b565ff8b283efece51128649868668" src="https://github.com/user-attachments/assets/143f3674-9fa1-4e99-8431-37139b399876" />
+<img width="112" alt="3df8a2d530dbf0795efc83e1153e3d9" src="https://github.com/user-attachments/assets/a9ea2665-2ebc-4c29-9df6-a64abc9d494c" />
+<img width="77" alt="9d20d35e5578d4939ab70646e7e9fbe" src="https://github.com/user-attachments/assets/acdabc0a-bd47-462f-b255-71159c63b4b2" />
+<img width="876" alt="e927933366bc60cc0f8bbfd420028c7" src="https://github.com/user-attachments/assets/19420241-fc05-49ba-aaf6-2ca96f4e5989" />
+<img width="876" alt="cd8745d3acb5a73733a90e83bc1a266" src="https://github.com/user-attachments/assets/5d896fdc-44b0-412b-8644-d4a29c24783a" />
+
+
+
+
+
+
 ## 评分标准｜Standard
 * 成功运行：+25分
 * `add_matrix`、`sub_matrix`、`mul_matrix`、`scale_matrix`、`transpose_matrix`、`trace_matrix`功能正常每个+5分
